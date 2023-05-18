@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079202519076",
+    "project_id": "agrovetmkulima-42cfd",
+    "storage_bucket": "agrovetmkulima-42cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079202519076:android:85e215318bef9067dbe0b1",
+        "android_client_info": {
+          "package_name": "com.example.agrovetmkulima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079202519076-f8q463klropbifqic3037liruj5pn2n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_LxYCzkL0WIYTyz-81_KFRk1gq9bRuiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079202519076-f8q463klropbifqic3037liruj5pn2n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
